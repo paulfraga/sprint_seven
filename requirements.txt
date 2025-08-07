@@ -2,4 +2,4 @@ pandas
 scipy
 streamlit
 ploty
-
+nbformat
